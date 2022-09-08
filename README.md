@@ -14,6 +14,10 @@
 
 <h3 align="left"> Projects: </h3>
 <p align="left">
+<img align="center" src="https://th.bing.com/th/id/R.10327dc6812b05b66a2b6b44c55a097c?rik=nKIXnE7Aetd6Uw&pid=ImgRaw&r=0" alt="silvokyda" height="30" width="40" /> 
+<ul>
+  <li><a href="https://github.com/Silvokyda/Python_Algorithms" target="blank"> Python Algorithms</a></li>
+  <li><a href="https://github.com/Silvokyda/Package_Delivery" target="blank"> Package Delivery</a></li></ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
