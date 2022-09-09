@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **API Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Silvokyda?tab=repositories](https://github.com/Silvokyda?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github Collection](https://github.com/Silvokyda?tab=repositories)
 
 - 💬 Ask me about **Google Cloud Platform || Azure || AWS || Linux**
 
