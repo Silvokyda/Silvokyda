@@ -23,7 +23,8 @@
   <li><a href="https://github.com/Silvokyda/Python_Algorithms" target="blank"> Python Algorithms</a></li>
   <li><a href="https://github.com/Silvokyda/Package_Delivery" target="blank"> Package Delivery</a></li>
   <li><a href="https://github.com/Silvokyda/PysimpleGui" target="blank">PySimpleGUI</a></li></ul>
-  <li><s hreff="https://github.com/Silvokyda/Python-Password-Generator">Password Generator</a></li></ul>
+  <li><a href="https://github.com/Silvokyda/Python-Password-Generator">Password Generator</a></li></ul>
+  <li><a href="https://github.com/Silvokyda/Digital-Clock">Digital Clock</a></li></ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
