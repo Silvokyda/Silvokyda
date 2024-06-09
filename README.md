@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silvokyda&label=Profile%20views&color=0e75b6&style=flat" alt="silvokyda" /> </p>
 
-- 🔭 I’m currently working on [Instant Messenger](https://github.com/Silvokyda/Instant-Messenger/)
+- 🔭 I’m currently working on [GeminiChatBotApp](https://github.com/Silvokyda/GeminiChatBotApp)
 
 - 🌱 I’m currently learning **API Development**
 
