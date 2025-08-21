@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silvokyda&label=Profile%20views&color=0e75b6&style=flat" alt="silvokyda" /> </p>
 
-- 🔭 I’m currently working on [GeminiChatBotApp](https://github.com/Silvokyda/GeminiChatBotApp)
+- 🔭 I’m currently working on [Notiqo](https://github.com/Silvokyda/Notiqo)
 
-- 🌱 I’m currently learning **API Development**
+- 🌱 I’m currently learning **AI Development**
 
 - 👨‍💻 All of my projects are available at [Github Collection](https://github.com/Silvokyda?tab=repositories)
 
