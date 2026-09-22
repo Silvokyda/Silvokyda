@@ -1,66 +1,157 @@
-<h1 align="center">Silvanus Oketch</h1>
-<h3 align="center">Building AI-native systems for real-world operations</h3>
+# Silvanus Oketch
+
+I build backend-heavy systems for products that need real-time communication, operational workflows, payments, AI integration, and reliable infrastructure.
+
+Most of my work sits around TypeScript/Node.js, NestJS, Laravel, PostgreSQL, WebSockets, Flutter, Docker, and cloud infrastructure.
+
+## Systems I work on
+
+### Real-time systems
+
+I build systems where state changes need to propagate quickly across users, services, and operational dashboards.
+
+Examples include:
+
+- live delivery and driver tracking
+- WebSocket-based application events
+- long-running job progress updates
+- real-time session state
+- operational notifications
+- multi-client synchronization
+
+I care about keeping real-time communication separate from core business state, so WebSockets remain a delivery mechanism rather than becoming the source of truth.
 
 ---
 
-## 🚀 What I Do
-I design and build **distributed systems + AI-powered infrastructure** focused on solving high-friction operational problems in emerging markets.
+### Backend architecture
 
-- ⚡ Real-time systems (logistics, communication, analytics)
-- 🧠 AI integration into production workflows
-- ☁️ Cloud-native architecture (scalable, resilient systems)
+I spend most of my time designing APIs and backend services around clear domain boundaries.
 
----
+Common areas:
 
-## 🧠 Current Focus
-- 🔭 Building **Notiqo** → AI system turning live conversations into structured intelligence  
-- 🌱 Deepening expertise in **AI-native backend systems**
-- ⚙️ Designing systems that move from **data → decisions → automation**
+- REST and GraphQL APIs
+- authentication and authorization
+- RBAC
+- multi-tenant systems
+- background jobs
+- webhooks
+- idempotent operations
+- pagination and filtering
+- file/media workflows
+- third-party integrations
+- audit trails
+- lifecycle/state-machine design
 
----
-
-## 🏗️ Key Project
-### 👉 Notiqo
-AI-powered system that integrates with platforms like Zoom, Google Meet, and Teams to:
-- Capture live sessions
-- Transform them into structured data
-- Generate actionable institutional insights
-
-**Why it matters:**  
-Organizations don’t lack data — they lack **usable intelligence**.
+I prefer explicit state transitions and predictable API contracts over hiding business rules inside controllers or frontend logic.
 
 ---
 
-## 🧩 Selected Work
-- 📦 Logistics orchestration systems (real-time tracking, dispatch, operations)
-- 🔄 Distributed backend systems for high-scale environments
-- 📊 Data pipelines powering operational analytics
+### Payments and transactional workflows
+
+I have worked on payment systems involving:
+
+- transaction initialization
+- payment verification
+- webhook validation
+- vendor/subaccount onboarding
+- payout flows
+- order/payment state synchronization
+- HMAC signature verification
+- retry and failure handling
+
+For payment-sensitive operations, I generally treat the backend as the authority rather than trusting client-side success states.
 
 ---
 
-## 🛠️ Core Stack
-**Backend & Systems**
-- Node.js, Python
-- Distributed systems design
-- REST / GraphQL APIs
+### AI and data-processing systems
 
-**Cloud & Infrastructure**
-- AWS, Azure, GCP
-- Docker, Kubernetes
-- CI/CD pipelines
+A growing part of my work involves connecting AI models to actual product workflows rather than treating AI as a standalone chat interface.
 
-**Data & AI**
-- Data processing pipelines
-- AI/ML integration into production systems
+This includes:
 
----
+- live-session ingestion
+- media-processing pipelines
+- structured extraction
+- asynchronous AI jobs
+- contextual retrieval
+- AI-generated analytics
+- event-driven processing
+- tracking long-running inference workflows
 
-## 📫 Reach Me
-- Email: silvansowino1@gmail.com  
-- LinkedIn: https://linkedin.com/in/silvanus-oketch
+I am particularly interested in systems that move through:
 
----
+`raw data → structured context → reasoning → operational action`
 
-## ⚡ Signal
-I don’t just build apps.  
-I build **systems that scale, learn, and drive decisions.**
+
+### Offline and synchronization workflows
+
+I also work on applications that need to remain usable with unstable connectivity.
+
+Areas I think about include:
+
+- local-first state
+- queued writes
+- batch synchronization
+- conflict detection
+- retry policies
+- optimistic UI
+- eventual consistency
+- server reconciliation
+
+This becomes especially important for operational software used in environments where connectivity cannot be assumed.
+
+
+## Engineering stack
+
+```text
+Languages
+TypeScript · JavaScript · Dart · PHP · Python
+
+Backend
+Node.js · NestJS · Express · Laravel
+
+APIs & Messaging
+REST · GraphQL · WebSockets · Webhooks
+
+Data
+PostgreSQL · MySQL · MongoDB · Redis · Prisma · Eloquent
+
+Frontend / Mobile
+React · Next.js · Angular · Flutter
+
+Infrastructure
+Docker · Linux · Nginx · GitHub Actions · CI/CD
+
+Architecture
+Event-driven systems · Multi-tenancy · RBAC
+State machines · Background jobs · Distributed workflows
+````
+
+## Things I care about
+
+* predictable API contracts
+* explicit domain models
+* observable failure states
+* systems that recover cleanly
+* keeping business logic out of UI code
+* treating integrations as unreliable dependencies
+* designing for retries and partial failure
+* reducing operational ambiguity
+* building infrastructure that remains understandable as the product grows
+
+## Currently exploring
+
+* AI-native backend architecture
+* agent orchestration
+* durable workflows
+* event-driven architectures
+* distributed job processing
+* retrieval and context systems
+* synchronization for intermittently connected applications
+* production observability for AI workflows
+
+## Links
+
+[Portfolio](https://portfolio-rho-tawny-wveh1icowh.vercel.app/) ·
+[LinkedIn](https://www.linkedin.com/in/silvanus-oketch-8091822a6/)
+
